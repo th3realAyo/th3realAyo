@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @th3realAyo
 - 👀 I’m interested in Fullstack Development
-- 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on Frontend Projetcs
+- 🌱 Apparently I find myself learning Data Science
+- 😁 Yeah sure, I know a bit of HTML CSS & Javascript 
 - 📫 How to reach me adegunted@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Identical twins don't have same finger print
