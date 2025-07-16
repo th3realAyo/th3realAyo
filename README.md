@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+My name is Damilola, and I am computer science graduate from EKSU[https://eksuportal.eksu.edu.ng/] interested in everything that entails Data, be it Analytics, Finance or Warehousing.
+
+- 🔭 I’m currently working on my portfolio-projects[https://github.com/th3realAyo/SQL-Portfolio-Projects] to make it easier for my next prospective employer see some of the things I have worked on.
+- 🌱 I’m currently learning SQL using the Microsft SQL Server and taking up a beginner course on Power BI.
+- 👯 I’m looking to collaborate on projects that speaks data generally, deep analysis, data visualization and ambiguous querying with SQL.
+- 📫 How to reach me: mail me on Gmail[adegunted@gmail.com]
+
 <!--
 **th3realAyo/th3realAyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
