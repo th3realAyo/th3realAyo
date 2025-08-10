@@ -1,4 +1,4 @@
-## Hi there 👋
+## You found me! 👋
 
 My name is Damilola, and I am computer science graduate from [EKSU](https://eksuportal.eksu.edu.ng/) interested in everything that entails Data.
 - 🚀 Open to entry-level roles, internships, and collaborations in Data Analytics & Finance.
