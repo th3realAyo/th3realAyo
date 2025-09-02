@@ -1,6 +1,5 @@
-## You found me! 👋
+## You AGAIN!🤦🏾‍♂️
 
-My name is Damilola, and I am computer science graduate from [EKSU](https://eksuportal.eksu.edu.ng/) interested in everything that entails Data.
 - 🚀 Open to entry-level roles, internships, and collaborations in Data Analytics & Finance.
 - 🔭 I have worked on [TTS-Summarizer](https://github.com/th3realAyo/tts-my-final-year-project) as my final year project and I’m currently working on my [portfolio-projects](https://github.com/th3realAyo/SQL-Portfolio-Projects) to make it easier for prospective employers to see what I’ve built in the past.
 - 👯 I’m looking to collaborate on projects related to data in general, exploaratory data analysis, data visualization and financial querying with SQL.
