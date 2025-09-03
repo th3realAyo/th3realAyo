@@ -1,10 +1,9 @@
-# Damilola Adegunte
+# Damilola Adegunte 🔍
 **Data Analyst | SQL | Excel | Power BI  
 📍 Remote | 📧 adegunted@gmail.com  
 
 I work on **data-driven solutions** using SQL, Excel, and BI tools. Passionate about **turning messy data into insights**.  
 
----
 
 ### 🔧 Tech Stack
 ![SQL](https://img.shields.io/badge/SQL-025E8C?logo=postgresql&logoColor=white)
