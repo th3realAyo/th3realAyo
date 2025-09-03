@@ -11,3 +11,10 @@ I work on **data-driven solutions** using SQL, Excel, and BI tools. I have a thi
 ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=black)
 
 ---
+![Profile Views](https://komarev.com/ghpvc/?username=th3realAyo&color=blue)
+
+### 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=th3realAyoe&show_icons=true&theme=radical)
+
+### 🏆 GitHub Trophies
+![Trophies](https://github-profile-trophy.vercel.app/?username=th3realAyo&theme=onedark)
