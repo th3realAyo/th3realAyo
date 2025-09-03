@@ -1,8 +1,8 @@
 # Damilola Adegunte 🔍
-**Data Analyst | SQL | Excel | Power BI  
+Data Analyst | SQL | Excel | Power BI  
 📍 Remote | 📧 adegunted@gmail.com  
 
-I work on **data-driven solutions** using SQL, Excel, and BI tools. Passionate about **turning messy data into insights**.  
+I work on **data-driven solutions** using SQL, Excel, and BI tools. I have a thing for **finance**.  
 
 
 ### 🔧 Tech Stack
