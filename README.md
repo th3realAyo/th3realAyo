@@ -13,4 +13,4 @@ I work on **data-driven solutions** using SQL, Excel, and BI tools. I have a thi
 ---
 
 ### 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=th3realAyoe&show_icons=true&theme=tokyonight)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=th3realAyo&show_icons=true&theme=tokyonight)
