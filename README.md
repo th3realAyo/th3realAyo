@@ -2,13 +2,15 @@
 Data Analyst | SQL | Excel | Power BI  
 📍 Remote | 📧 adegunted@gmail.com  
 
-I work on **data-driven solutions** using SQL, Excel, and BI tools. Python is difficult but I am currently learning it, regardless!  
+Finding my way around AI/ML...   
 ![Profile Views](https://komarev.com/ghpvc/?username=th3realAyo&color=blue)
 
 ### 🔧 Tech Stack
 ![SQL](https://img.shields.io/badge/SQL-025E8C?logo=postgresql&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white)
-![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?logo=googlecolab&logoColor=black)
+
 
 ---
 
