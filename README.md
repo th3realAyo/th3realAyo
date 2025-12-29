@@ -16,3 +16,5 @@ Finding my way around AI/ML...
 
 ### 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=th3realAyo&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=th3realAyo)
+
