@@ -1,7 +1,3 @@
-# Damilola Adegunte 🔍
-AI/ML Intern
-📍 Remote | 📧 adegunted@gmail.com  
-
 Finding my way around AI/ML...   
 ![Profile Views](https://komarev.com/ghpvc/?username=th3realAyo&color=blue)
 
