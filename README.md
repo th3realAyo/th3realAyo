@@ -1,9 +1,8 @@
-Finding my way around AI/ML...   
+Finding purpose in AI Engineering...
 ![Profile Views](https://komarev.com/ghpvc/?username=th3realAyo&color=blue)
 
 ### 🔧 Tech Stack
 ![SQL](https://img.shields.io/badge/SQL-025E8C?logo=postgresql&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?logo=googlecolab&logoColor=black)
 
